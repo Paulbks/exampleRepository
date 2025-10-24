@@ -1,1 +1,1 @@
-Welcome to this project of the AIBAS course!
+Welcome to this project of this example project AIBAS course!
